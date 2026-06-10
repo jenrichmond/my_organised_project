@@ -35,4 +35,4 @@ If you're not sure where something goes, the readme.txt inside each folder will 
 Created by Dr Jenny Richmond at [Reveal Research]((https://revealresearch.org).\
 Reveal Research helps honours and postgraduate students navigate the hidden curriculum of doing research. Free to use and share.
 
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
