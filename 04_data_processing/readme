@@ -1,0 +1,5 @@
+This folder is for the work you do between collecting data and analysing it.
+Raw_Data/ — your original, unmodified data files. Never edit these.
+Cleaned_Data/ — your working copies after cleaning
+Codebook/ — your variable names, codes, and what they mean
+Cleaning_Scripts/ — any R, SPSS, or other scripts used to clean the data
